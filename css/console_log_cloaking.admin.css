@@ -1,0 +1,15 @@
+/* stylesheet */
+
+form {
+    display: block;
+    padding: 1em;
+    background-color: white;
+}
+
+.form-table {
+    box-sizing: border-box;
+    border: 2px solid #cccccc;
+    padding: 2em;
+    display: block;
+    background-color: #F1F1F1;
+}
